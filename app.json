@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "react-navigation-experiment",
-    "slug": "react-navigation-experiment",
+    "name": "anonsuppgroup",
+    "slug": "snack-26852b1a-20f3-41e3-a940-fbd40cfd76b0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
